@@ -17,4 +17,4 @@
 ##
 <div>
   ![Snake animation](https://github.com/OVicio10/OVicio10/blob/output/github-contribution-grid-snake.svg)
-</div>
+  </div>
