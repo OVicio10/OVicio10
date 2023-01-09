@@ -28,6 +28,6 @@ Estudante de Engenharia da Computação, apaixonado por tecnologias e ajudar pes
   
 <div>
   
-  ![Snake animation](https://github.com/OVicio10/OVicio10/blob/output/github-contribution-grid-snake.svg)
+  
   
   </div>
